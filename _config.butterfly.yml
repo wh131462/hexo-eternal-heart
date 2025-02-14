@@ -1074,7 +1074,9 @@ CDN:
     # fancybox:
     # fancybox_css:
     # fireworks:
-    # fontawesome:
+     fontawesome:
+         cdn: false
+         local: true
     # gitalk:
     # gitalk_css:
     # giscus:

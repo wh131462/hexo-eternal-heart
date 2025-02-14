@@ -12,6 +12,7 @@
     "version": "7.3.0"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.7.2",
     "hexo": "^7.3.0",
     "hexo-admonition": "^1.1.2",
     "hexo-deployer-git": "^4.0.0",
