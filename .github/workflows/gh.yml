@@ -31,8 +31,6 @@ jobs:
         run: npm install
       - name: Build
         run: npm run build
-      - name: import butterfly
-        run: git clone -b master git@github.com:jerryc127/hexo-theme-butterfly.git themes/butterfly
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
